@@ -1,0 +1,47 @@
+body {
+    background-image: url("/mc-background.png");
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+}
+
+#i_no_good_at_css {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    display: inline-block;
+}
+
+#egg_left {
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+#egg_right {
+    margin-left: 30px;
+    margin-right: auto;
+}
+
+#real_egg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav ul {
+    font-size: 20px;
+    text-align: center;
+}
+
+#nav li {
+    display: inline;
+    list-style-type: none;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+}
